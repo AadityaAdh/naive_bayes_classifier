@@ -1,1 +1,1 @@
-# naive_bayes_classifier
+# naive_bayes_classifier from scratch
